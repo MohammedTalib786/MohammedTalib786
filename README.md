@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shaikh Mohammed Talib and I'm a Web Developer from Mumbai.</p>
+<h3 align="left">My name is Shaikh Mohammed Talib and I'm a Web Developer from Mumbai.</h3>
 
 ###
 

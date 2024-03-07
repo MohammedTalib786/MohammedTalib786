@@ -6,19 +6,19 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">My name is Shaikh Mohammed Talib I am 20 years old, I live in Kurla, Mumbai. Currently, I am learning web development at Keerti Institute where I have learned different technologies like HTML, CSS, JavaScript, React, Node, PHP, MySQL, mongo, etc, and made many projects using these technologies. Also, I have completed an internship for 6 months as an SEO Intern<br><br>🎯 Goals: To Become an Expert Software Engineer</p>
+<p align="left">My name is Shaikh Mohammed Talib I am 20 years old, I live in Kurla, Mumbai. Currently, I am learning web development at Keerti Institute where I have learned different technologies like HTML, CSS, JavaScript, jQuery, React, Node, PHP, MySQL, mongo, etc, and made many projects using these technologies. Also, I have completed an internship for 6 months as an SEO Intern. My goal is to Become an Expert Software Engineer</p>
 
 ###
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -39,16 +41,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="center">Social Media</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/shaikh-mohammed-talib-b45275222/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>

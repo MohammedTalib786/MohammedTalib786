@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Shaikh Mohammed Talib I am 20 years old, I live in Kurla, Mumbai. Currently, I am learning web development at Keerti Institute where I have learned different technologies like HTML, CSS, JavaScript, jQuery, React, Node, PHP, MySQL, mongo, etc, and made many projects using these technologies. Also, I have completed an internship for 6 months as an SEO Intern. My goal is to Become an Expert Software Engineer</p>
+<p align="left">My name is Shaikh Mohammed Talib. I am a 21-year-old Web Developer residing in Kurla, Mumbai. I specialize in developing and maintaining websites by leveraging both no-code tools like WordPress, Elementor, and Shopify, and code-based solutions using HTML, CSS, JavaScript, and React. Responsible for maintaining and enhancing WooCommerce site functionality, focusing on optimized layout for improved user experience. I possess a strong understanding of modern web technologies and a proven ability to deliver solutions that align with user requirements and business objectives.</p>
 
 ###
 
